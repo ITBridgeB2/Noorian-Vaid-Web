@@ -1,0 +1,7 @@
+#NODE MODULES
+Front-End/node_modules/
+Back-End/backend/node_modules/
+Back-End/node_modules/
+#Logs
+*.Log
+
